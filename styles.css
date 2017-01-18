@@ -170,10 +170,13 @@ a.social:hover {
 
 /* widget */
 
-/* .500pxwid {
-  display: inline-block;
-  clear: all;
-} */
+.snapwidget-widget {
+  border: none;
+  overflow: auto;
+  width: 260px;
+  height: 260px;
+  /*background: url("https://snapwidget.com/embed/code/226389");*/
+}
 
 
 /* Styles for larger screens */
